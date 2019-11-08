@@ -1,0 +1,584 @@
+2019-11-08 12:20:27,631  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 12:20:31,849  INFO [main] LogReports:23 - Application is open...
+2019-11-08 12:33:15,875  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 12:33:20,070  INFO [main] LogReports:23 - Application is open...
+2019-11-08 12:33:24,228  INFO [main] LogReports:23 - validating homepage
+2019-11-08 12:33:24,286  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 12:42:38,073  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 12:42:42,253  INFO [main] LogReports:23 - Application is open...
+2019-11-08 12:42:46,581  INFO [main] LogReports:23 - validating homepage
+2019-11-08 12:42:46,678  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 12:49:58,431  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 12:50:02,608  INFO [main] LogReports:23 - Application is open...
+2019-11-08 12:50:06,683  INFO [main] LogReports:23 - validating homepage
+2019-11-08 12:50:06,743  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 12:50:09,867  INFO [main] LogReports:23 - validating homepage
+2019-11-08 12:50:09,921  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 12:50:30,785  INFO [main] LogReports:23 - Element not clicked
+2019-11-08 12:58:14,378  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 12:58:18,529  INFO [main] LogReports:23 - Application is open...
+2019-11-08 12:58:24,943  INFO [main] LogReports:23 - validating homepage
+2019-11-08 12:58:25,008  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 12:58:25,986  INFO [main] LogReports:23 - Element not clicked
+2019-11-08 12:58:46,081  INFO [main] LogReports:23 - validating homepage
+2019-11-08 12:58:46,115  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 12:58:47,115  INFO [main] LogReports:23 - Element not clicked
+2019-11-08 13:00:49,080  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 13:00:53,230  INFO [main] LogReports:23 - Application is open...
+2019-11-08 13:00:57,948  INFO [main] LogReports:23 - validating homepage
+2019-11-08 13:00:58,031  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 13:00:59,134  INFO [main] LogReports:23 - Element not clicked
+2019-11-08 13:01:19,216  INFO [main] LogReports:23 - validating homepage
+2019-11-08 13:01:19,268  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 13:01:20,299  INFO [main] LogReports:23 - Element not clicked
+2019-11-08 13:03:58,911  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 13:04:03,133  INFO [main] LogReports:23 - Application is open...
+2019-11-08 13:04:07,869  INFO [main] LogReports:23 - validating homepage
+2019-11-08 13:04:07,933  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 13:04:12,037  INFO [main] LogReports:23 - Element not clicked
+2019-11-08 13:06:46,310  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 13:06:50,523  INFO [main] LogReports:23 - Application is open...
+2019-11-08 13:06:55,340  INFO [main] LogReports:23 - validating homepage
+2019-11-08 13:06:55,403  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 13:08:06,425  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 13:08:10,652  INFO [main] LogReports:23 - Application is open...
+2019-11-08 13:08:14,589  INFO [main] LogReports:23 - validating homepage
+2019-11-08 13:08:14,643  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 13:11:53,706  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 13:11:57,862  INFO [main] LogReports:23 - Application is open...
+2019-11-08 13:12:02,564  INFO [main] LogReports:23 - validating homepage
+2019-11-08 13:12:02,615  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 13:15:50,775  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 13:15:55,007  INFO [main] LogReports:23 - Application is open...
+2019-11-08 13:15:58,827  INFO [main] LogReports:23 - validating homepage
+2019-11-08 13:15:58,893  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 13:16:02,877  INFO [main] LogReports:23 - validating homepage
+2019-11-08 13:16:02,921  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 13:35:30,018  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 13:35:34,165  INFO [main] LogReports:23 - Application is open...
+2019-11-08 13:35:38,494  INFO [main] LogReports:23 - validating homepage
+2019-11-08 13:35:38,564  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 13:35:42,243  INFO [main] LogReports:23 - validating homepage
+2019-11-08 13:35:42,292  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 13:36:03,280  INFO [main] LogReports:23 - Element not clicked
+2019-11-08 13:37:42,660  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 13:37:46,811  INFO [main] LogReports:23 - Application is open...
+2019-11-08 13:37:50,867  INFO [main] LogReports:23 - validating homepage
+2019-11-08 13:37:50,935  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 13:37:54,072  INFO [main] LogReports:23 - validating product price and ex tax
+2019-11-08 13:37:54,090  INFO [main] LogReports:23 - validating homepage
+2019-11-08 13:37:54,178  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 13:38:04,208  INFO [main] LogReports:23 - Element not clicked
+2019-11-08 13:38:04,215  INFO [main] LogReports:23 - validating product price and ex tax
+2019-11-08 13:39:45,227  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 13:39:49,382  INFO [main] LogReports:23 - Application is open...
+2019-11-08 13:39:53,876  INFO [main] LogReports:23 - validating homepage
+2019-11-08 13:39:53,942  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 13:39:57,055  INFO [main] LogReports:23 - validating product price and ex tax
+2019-11-08 13:39:57,072  INFO [main] LogReports:23 - validating homepage
+2019-11-08 13:39:57,140  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 13:40:04,157  INFO [main] LogReports:23 - Element not clicked
+2019-11-08 13:40:04,185  INFO [main] LogReports:23 - validating product price and ex tax
+2019-11-08 13:42:53,242  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 13:42:57,393  INFO [main] LogReports:23 - Application is open...
+2019-11-08 13:43:01,440  INFO [main] LogReports:23 - validating homepage
+2019-11-08 13:43:01,490  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 13:43:05,714  INFO [main] LogReports:23 - validating homepage
+2019-11-08 13:43:05,783  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 13:45:17,765  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 13:45:21,909  INFO [main] LogReports:23 - Application is open...
+2019-11-08 13:45:26,105  INFO [main] LogReports:23 - validating homepage
+2019-11-08 13:45:26,172  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 13:45:29,557  INFO [main] LogReports:23 - validating product price and ex tax
+2019-11-08 13:45:29,575  INFO [main] LogReports:23 - validating homepage
+2019-11-08 13:45:29,651  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 13:45:36,083  INFO [main] LogReports:23 - Element not clicked
+2019-11-08 13:45:36,102  INFO [main] LogReports:23 - validating product price and ex tax
+2019-11-08 13:48:27,859  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 13:48:32,012  INFO [main] LogReports:23 - Application is open...
+2019-11-08 13:48:36,360  INFO [main] LogReports:23 - validating homepage
+2019-11-08 13:48:36,426  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 13:48:39,656  INFO [main] LogReports:23 - validating product price and ex tax
+2019-11-08 13:48:39,673  INFO [main] LogReports:23 - validating homepage
+2019-11-08 13:48:39,744  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 13:48:44,251  INFO [main] LogReports:23 - Element not clicked
+2019-11-08 13:48:44,261  INFO [main] LogReports:23 - validating product price and ex tax
+2019-11-08 13:49:31,754  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 13:49:35,919  INFO [main] LogReports:23 - Application is open...
+2019-11-08 13:49:39,900  INFO [main] LogReports:23 - validating homepage
+2019-11-08 13:49:39,966  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 13:49:42,925  INFO [main] LogReports:23 - validating product price and ex tax
+2019-11-08 13:49:42,942  INFO [main] LogReports:23 - validating homepage
+2019-11-08 13:49:43,014  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 13:50:03,891  INFO [main] LogReports:23 - Element not clicked
+2019-11-08 13:50:03,896  INFO [main] LogReports:23 - validating product price and ex tax
+2019-11-08 13:51:41,155  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 13:51:45,302  INFO [main] LogReports:23 - Application is open...
+2019-11-08 13:51:49,133  INFO [main] LogReports:23 - validating homepage
+2019-11-08 13:51:49,182  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 13:51:52,315  INFO [main] LogReports:23 - validating product price and ex tax
+2019-11-08 13:51:52,335  INFO [main] LogReports:23 - validating homepage
+2019-11-08 13:53:26,130  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 13:53:30,297  INFO [main] LogReports:23 - Application is open...
+2019-11-08 13:53:34,682  INFO [main] LogReports:23 - validating homepage
+2019-11-08 13:53:34,735  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 13:53:37,681  INFO [main] LogReports:23 - validating product price and ex tax
+2019-11-08 13:53:37,700  INFO [main] LogReports:23 - validating homepage
+2019-11-08 13:57:09,577  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 13:57:13,756  INFO [main] LogReports:23 - Application is open...
+2019-11-08 13:57:18,577  INFO [main] LogReports:23 - validating homepage
+2019-11-08 13:57:18,656  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 13:57:22,228  INFO [main] LogReports:23 - validating product price and ex tax
+2019-11-08 13:57:22,247  INFO [main] LogReports:23 - validating homepage
+2019-11-08 15:39:50,709  INFO [main] LogReports:23 - IE browser started...
+2019-11-08 15:39:50,746  INFO [main] LogReports:23 - Application is open...
+2019-11-08 15:39:55,350  INFO [main] LogReports:23 - validating homepage
+2019-11-08 15:39:55,933  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 15:40:32,657  INFO [main] LogReports:23 - validating product price and ex tax
+2019-11-08 15:40:32,681  INFO [main] LogReports:23 - validating homepage
+2019-11-08 15:40:33,028  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 15:41:28,684  INFO [main] LogReports:23 - Element not clicked
+2019-11-08 15:41:28,733  INFO [main] LogReports:23 - Element not clicked
+2019-11-08 15:41:28,733  INFO [main] LogReports:23 - validating product price and ex tax
+2019-11-08 15:48:36,716  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 15:48:40,890  INFO [main] LogReports:23 - Application is open...
+2019-11-08 15:48:44,979  INFO [main] LogReports:23 - validating homepage
+2019-11-08 15:48:45,040  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 15:48:48,096  INFO [main] LogReports:23 - validating product price and ex tax
+2019-11-08 15:48:48,115  INFO [main] LogReports:23 - validating homepage
+2019-11-08 15:48:48,169  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 15:49:09,074  INFO [main] LogReports:23 - Element not clicked
+2019-11-08 15:49:09,090  INFO [main] LogReports:23 - validating product price and ex tax
+2019-11-08 15:58:19,754  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 15:58:23,907  INFO [main] LogReports:23 - Application is open...
+2019-11-08 15:58:28,475  INFO [main] LogReports:23 - validating homepage
+2019-11-08 15:58:28,554  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 15:58:32,040  INFO [main] LogReports:23 - validating product price and ex tax
+2019-11-08 15:58:32,058  INFO [main] LogReports:23 - validating homepage
+2019-11-08 15:58:32,114  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 15:58:36,998  INFO [main] LogReports:23 - Element not clicked
+2019-11-08 15:58:37,009  INFO [main] LogReports:23 - validating product price and ex tax
+2019-11-08 16:23:35,347  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 16:23:39,528  INFO [main] LogReports:23 - Application is open...
+2019-11-08 16:23:43,640  INFO [main] LogReports:23 - validating homepage
+2019-11-08 16:23:43,690  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 16:23:47,988  INFO [main] LogReports:23 - Element not clicked
+2019-11-08 16:24:08,070  INFO [main] LogReports:23 - validating homepage
+2019-11-08 16:24:08,130  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 16:24:11,681  INFO [main] LogReports:23 - Element not clicked
+2019-11-08 16:27:28,683  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 16:27:32,885  INFO [main] LogReports:23 - Application is open...
+2019-11-08 16:27:37,225  INFO [main] LogReports:23 - validating homepage
+2019-11-08 16:27:37,294  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 16:28:02,741  INFO [main] LogReports:23 - validating homepage
+2019-11-08 16:28:02,780  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 16:34:16,159  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 16:34:20,360  INFO [main] LogReports:23 - Application is open...
+2019-11-08 16:34:24,761  INFO [main] LogReports:23 - validating homepage
+2019-11-08 16:34:24,833  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 16:34:30,908  INFO [main] LogReports:23 - validating homepage
+2019-11-08 16:34:30,952  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 16:42:42,157  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 16:42:46,339  INFO [main] LogReports:23 - Application is open...
+2019-11-08 17:02:34,987  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 17:02:39,143  INFO [main] LogReports:23 - Application is open...
+2019-11-08 17:40:35,873  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 17:40:40,065  INFO [main] LogReports:23 - Application is open...
+2019-11-08 17:42:46,533  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 17:42:48,709  INFO [main] LogReports:23 - Application is open...
+2019-11-08 17:47:17,048  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 17:47:21,250  INFO [main] LogReports:23 - Application is open...
+2019-11-08 17:47:23,220  INFO [main] LogReports:23 - validating homepage
+2019-11-08 17:50:12,688  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 17:50:16,928  INFO [main] LogReports:23 - Application is open...
+2019-11-08 17:50:19,297  INFO [main] LogReports:23 - validating homepage
+2019-11-08 17:59:44,741  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 17:59:48,919  INFO [main] LogReports:23 - Application is open...
+2019-11-08 17:59:55,355  INFO [main] LogReports:23 - validating homepage
+2019-11-08 17:59:55,406  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 17:59:56,399  INFO [main] LogReports:23 - validating hotsaucespage
+2019-11-08 18:09:04,723  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 18:09:08,920  INFO [main] LogReports:23 - Application is open...
+2019-11-08 18:09:11,064  INFO [main] LogReports:23 - validating homepage
+2019-11-08 18:09:11,123  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 18:09:12,036  INFO [main] LogReports:23 - validating hotsaucespage
+2019-11-08 18:18:27,121  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 18:18:31,328  INFO [main] LogReports:23 - Application is open...
+2019-11-08 18:18:33,622  INFO [main] LogReports:23 - validating homepage
+2019-11-08 18:18:33,711  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 18:18:34,728  INFO [main] LogReports:23 - validating hotsaucespage
+2019-11-08 18:19:26,162  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 18:19:30,398  INFO [main] LogReports:23 - Application is open...
+2019-11-08 18:19:32,546  INFO [main] LogReports:23 - validating homepage
+2019-11-08 18:19:32,613  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 18:19:33,553  INFO [main] LogReports:23 - validating hotsaucespage
+2019-11-08 18:19:33,604  INFO [main] LogReports:23 - hotsaucepage validated successful
+2019-11-08 18:29:29,282  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 18:29:33,481  INFO [main] LogReports:23 - Application is open...
+2019-11-08 18:29:35,565  INFO [main] LogReports:23 - validating homepage
+2019-11-08 18:29:35,642  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 18:29:36,536  INFO [main] LogReports:23 - validating hotsaucespage
+2019-11-08 18:29:36,591  INFO [main] LogReports:23 - hotsaucepage validated successful
+2019-11-08 18:40:48,279  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 18:40:52,520  INFO [main] LogReports:23 - Application is open...
+2019-11-08 18:40:54,812  INFO [main] LogReports:23 - validating homepage
+2019-11-08 18:40:54,894  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 18:40:55,832  INFO [main] LogReports:23 - validating hotsaucespage
+2019-11-08 18:40:55,886  INFO [main] LogReports:23 - hotsaucepage validated successful
+2019-11-08 18:40:56,574  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 18:40:56,632  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 18:40:57,298  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 18:40:57,352  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 18:50:24,743  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 18:50:28,970  INFO [main] LogReports:23 - Application is open...
+2019-11-08 18:50:31,224  INFO [main] LogReports:23 - validating homepage
+2019-11-08 18:50:31,301  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 18:50:32,408  INFO [main] LogReports:23 - validating hotsaucespage
+2019-11-08 18:50:32,463  INFO [main] LogReports:23 - hotsaucepage validated successful
+2019-11-08 18:50:33,122  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 18:50:33,175  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 18:50:33,694  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 18:50:33,741  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 18:50:34,295  INFO [main] LogReports:23 - validating newtohotsausepage
+2019-11-08 18:52:10,596  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 18:52:14,784  INFO [main] LogReports:23 - Application is open...
+2019-11-08 18:52:17,028  INFO [main] LogReports:23 - validating homepage
+2019-11-08 18:52:17,080  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 18:52:18,368  INFO [main] LogReports:23 - validating hotsaucespage
+2019-11-08 18:52:18,422  INFO [main] LogReports:23 - hotsaucepage validated successful
+2019-11-08 18:52:19,309  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 18:52:19,355  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 18:52:20,051  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 18:52:20,121  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 18:52:20,818  INFO [main] LogReports:23 - validating newtohotsausepage
+2019-11-08 18:52:20,865  INFO [main] LogReports:23 - newtohotsausepage validated successful
+2019-11-08 18:56:36,036  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 18:56:40,243  INFO [main] LogReports:23 - Application is open...
+2019-11-08 18:56:42,226  INFO [main] LogReports:23 - validating homepage
+2019-11-08 18:56:42,293  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 18:56:43,496  INFO [main] LogReports:23 - validating hotsaucespage
+2019-11-08 18:56:43,543  INFO [main] LogReports:23 - hotsaucepage validated successful
+2019-11-08 18:56:44,254  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 18:56:44,307  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 18:56:44,820  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 18:56:44,866  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 18:56:45,262  INFO [main] LogReports:23 - validating newtohotsausepage
+2019-11-08 18:56:45,322  INFO [main] LogReports:23 - newtohotsausepage validated successful
+2019-11-08 19:07:58,114  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 19:08:02,336  INFO [main] LogReports:23 - Application is open...
+2019-11-08 19:08:08,896  INFO [main] LogReports:23 - validating homepage
+2019-11-08 19:08:08,971  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 19:08:09,852  INFO [main] LogReports:23 - validating hotsaucespage
+2019-11-08 19:08:09,894  INFO [main] LogReports:23 - hotsaucepage validated successful
+2019-11-08 19:08:10,877  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 19:08:10,931  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 19:08:11,519  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 19:08:11,556  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 19:08:12,042  INFO [main] LogReports:23 - validating newtohotsausepage
+2019-11-08 19:08:12,090  INFO [main] LogReports:23 - newtohotsausepage validated successful
+2019-11-08 19:08:12,242  INFO [main] LogReports:23 - Element not clicked
+2019-11-08 19:08:12,248  INFO [main] LogReports:23 - validating merchantisemenspage
+2019-11-08 19:09:46,225  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 19:09:50,432  INFO [main] LogReports:23 - Application is open...
+2019-11-08 19:09:52,634  INFO [main] LogReports:23 - validating homepage
+2019-11-08 19:09:52,716  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 19:09:53,645  INFO [main] LogReports:23 - validating hotsaucespage
+2019-11-08 19:09:53,701  INFO [main] LogReports:23 - hotsaucepage validated successful
+2019-11-08 19:09:54,315  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 19:09:54,357  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 19:09:54,856  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 19:09:54,892  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 19:09:55,360  INFO [main] LogReports:23 - validating newtohotsausepage
+2019-11-08 19:09:55,405  INFO [main] LogReports:23 - newtohotsausepage validated successful
+2019-11-08 19:09:55,976  INFO [main] LogReports:23 - validating merchantisemenspage
+2019-11-08 19:09:56,019  INFO [main] LogReports:23 - merchantisemenspage validated successful
+2019-11-08 19:22:49,034  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 19:22:53,208  INFO [main] LogReports:23 - Application is open...
+2019-11-08 19:22:55,761  INFO [main] LogReports:23 - validating homepage
+2019-11-08 19:22:55,822  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 19:22:56,939  INFO [main] LogReports:23 - validating hotsaucespage
+2019-11-08 19:22:56,997  INFO [main] LogReports:23 - hotsaucepage validated successful
+2019-11-08 19:22:58,001  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 19:22:58,064  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 19:22:58,758  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 19:22:58,810  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 19:22:59,433  INFO [main] LogReports:23 - validating newtohotsausepage
+2019-11-08 19:22:59,505  INFO [main] LogReports:23 - newtohotsausepage validated successful
+2019-11-08 19:23:00,356  INFO [main] LogReports:23 - validating merchantisemenspage
+2019-11-08 19:23:00,404  INFO [main] LogReports:23 - merchantisemenspage validated successful
+2019-11-08 19:27:23,230  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 19:27:27,495  INFO [main] LogReports:23 - Application is open...
+2019-11-08 19:27:29,501  INFO [main] LogReports:23 - validating homepage
+2019-11-08 19:27:29,578  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 19:27:30,577  INFO [main] LogReports:23 - validating hotsaucespage
+2019-11-08 19:27:30,620  INFO [main] LogReports:23 - hotsaucepage validated successful
+2019-11-08 19:27:31,227  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 19:27:31,270  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 19:27:31,683  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 19:27:31,728  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 19:27:32,120  INFO [main] LogReports:23 - validating newtohotsausepage
+2019-11-08 19:27:32,163  INFO [main] LogReports:23 - newtohotsausepage validated successful
+2019-11-08 19:27:32,748  INFO [main] LogReports:23 - validating merchantisemenspage
+2019-11-08 19:27:32,788  INFO [main] LogReports:23 - merchantisemenspage validated successful
+2019-11-08 19:32:26,186  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 19:32:30,407  INFO [main] LogReports:23 - Application is open...
+2019-11-08 19:32:32,807  INFO [main] LogReports:23 - validating homepage
+2019-11-08 19:32:32,879  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 19:32:33,908  INFO [main] LogReports:23 - validating hotsaucespage
+2019-11-08 19:32:33,977  INFO [main] LogReports:23 - hotsaucepage validated successful
+2019-11-08 19:32:34,897  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 19:32:34,954  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 19:32:35,445  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 19:32:35,500  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 19:32:35,946  INFO [main] LogReports:23 - validating newtohotsausepage
+2019-11-08 19:32:36,003  INFO [main] LogReports:23 - newtohotsausepage validated successful
+2019-11-08 19:32:36,660  INFO [main] LogReports:23 - validating merchantisemenspage
+2019-11-08 19:32:36,709  INFO [main] LogReports:23 - merchantisemenspage validated successful
+2019-11-08 19:32:37,575  INFO [main] LogReports:23 - Element not clicked
+2019-11-08 19:34:42,798  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 19:34:47,034  INFO [main] LogReports:23 - Application is open...
+2019-11-08 19:34:49,682  INFO [main] LogReports:23 - validating homepage
+2019-11-08 19:34:49,752  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 19:34:50,686  INFO [main] LogReports:23 - validating hotsaucespage
+2019-11-08 19:34:50,735  INFO [main] LogReports:23 - hotsaucepage validated successful
+2019-11-08 19:34:51,384  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 19:34:51,437  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 19:34:52,023  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 19:34:52,076  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 19:34:52,602  INFO [main] LogReports:23 - validating newtohotsausepage
+2019-11-08 19:34:52,659  INFO [main] LogReports:23 - newtohotsausepage validated successful
+2019-11-08 19:34:53,462  INFO [main] LogReports:23 - validating merchantisemenspage
+2019-11-08 19:34:53,514  INFO [main] LogReports:23 - merchantisemenspage validated successful
+2019-11-08 19:46:02,089  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 19:46:06,292  INFO [main] LogReports:23 - Application is open...
+2019-11-08 19:46:08,450  INFO [main] LogReports:23 - validating homepage
+2019-11-08 19:46:08,534  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 19:46:09,440  INFO [main] LogReports:23 - validating hotsaucespage
+2019-11-08 19:46:09,501  INFO [main] LogReports:23 - hotsaucepage validated successful
+2019-11-08 19:46:10,444  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 19:46:10,493  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 19:46:10,976  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 19:46:11,016  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 19:46:11,435  INFO [main] LogReports:23 - validating newtohotsausepage
+2019-11-08 19:46:11,499  INFO [main] LogReports:23 - newtohotsausepage validated successful
+2019-11-08 19:46:12,112  INFO [main] LogReports:23 - validating merchantisemenspage
+2019-11-08 19:46:12,152  INFO [main] LogReports:23 - merchantisemenspage validated successful
+2019-11-08 19:53:46,335  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 19:53:50,496  INFO [main] LogReports:23 - Application is open...
+2019-11-08 19:53:52,769  INFO [main] LogReports:23 - validating homepage
+2019-11-08 19:53:52,841  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 19:53:54,021  INFO [main] LogReports:23 - validating hotsaucespage
+2019-11-08 19:53:54,070  INFO [main] LogReports:23 - hotsaucepage validated successful
+2019-11-08 19:53:54,715  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 19:53:54,765  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 19:53:55,329  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 19:53:55,367  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 19:53:56,036  INFO [main] LogReports:23 - validating newtohotsausepage
+2019-11-08 19:53:56,078  INFO [main] LogReports:23 - newtohotsausepage validated successful
+2019-11-08 19:53:56,754  INFO [main] LogReports:23 - validating merchantisemenspage
+2019-11-08 19:53:56,801  INFO [main] LogReports:23 - merchantisemenspage validated successful
+2019-11-08 19:53:57,773  INFO [main] LogReports:23 - validating itemname
+2019-11-08 19:53:57,940  INFO [main] LogReports:23 - itemname validated successfully
+2019-11-08 19:55:03,470  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 19:55:07,654  INFO [main] LogReports:23 - Application is open...
+2019-11-08 19:55:09,695  INFO [main] LogReports:23 - validating homepage
+2019-11-08 19:55:09,777  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 19:55:10,854  INFO [main] LogReports:23 - validating hotsaucespage
+2019-11-08 19:55:10,919  INFO [main] LogReports:23 - hotsaucepage validated successful
+2019-11-08 19:55:11,757  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 19:55:11,816  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 19:55:12,446  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 19:55:12,484  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 19:55:13,047  INFO [main] LogReports:23 - validating newtohotsausepage
+2019-11-08 19:55:13,094  INFO [main] LogReports:23 - newtohotsausepage validated successful
+2019-11-08 19:55:13,850  INFO [main] LogReports:23 - validating merchantisemenspage
+2019-11-08 19:55:13,903  INFO [main] LogReports:23 - merchantisemenspage validated successful
+2019-11-08 19:55:14,886  INFO [main] LogReports:23 - validating itemname
+2019-11-08 19:55:15,151  INFO [main] LogReports:23 - itemname validated successfully
+2019-11-08 19:55:15,156  INFO [main] LogReports:23 - validating shirtsize
+2019-11-08 19:58:40,198  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 19:58:44,386  INFO [main] LogReports:23 - Application is open...
+2019-11-08 19:58:47,039  INFO [main] LogReports:23 - validating homepage
+2019-11-08 19:58:47,107  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 19:58:48,334  INFO [main] LogReports:23 - validating hotsaucespage
+2019-11-08 19:58:48,425  INFO [main] LogReports:23 - hotsaucepage validated successful
+2019-11-08 19:58:49,357  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 19:58:49,401  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 19:58:50,128  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 19:58:50,166  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 19:58:50,764  INFO [main] LogReports:23 - validating newtohotsausepage
+2019-11-08 19:58:50,806  INFO [main] LogReports:23 - newtohotsausepage validated successful
+2019-11-08 19:58:51,569  INFO [main] LogReports:23 - validating merchantisemenspage
+2019-11-08 19:58:51,615  INFO [main] LogReports:23 - merchantisemenspage validated successful
+2019-11-08 19:58:52,564  INFO [main] LogReports:23 - validating itemname
+2019-11-08 19:58:52,768  INFO [main] LogReports:23 - itemname validated successfully
+2019-11-08 19:58:52,774  INFO [main] LogReports:23 - validating shirtsize
+2019-11-08 19:59:58,176  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 20:00:02,370  INFO [main] LogReports:23 - Application is open...
+2019-11-08 20:00:05,527  INFO [main] LogReports:23 - validating homepage
+2019-11-08 20:00:05,605  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 20:00:06,616  INFO [main] LogReports:23 - validating hotsaucespage
+2019-11-08 20:00:06,674  INFO [main] LogReports:23 - hotsaucepage validated successful
+2019-11-08 20:00:08,122  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 20:00:08,182  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 20:00:08,684  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 20:00:08,737  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 20:00:09,170  INFO [main] LogReports:23 - validating newtohotsausepage
+2019-11-08 20:00:09,229  INFO [main] LogReports:23 - newtohotsausepage validated successful
+2019-11-08 20:00:09,824  INFO [main] LogReports:23 - validating merchantisemenspage
+2019-11-08 20:00:09,875  INFO [main] LogReports:23 - merchantisemenspage validated successful
+2019-11-08 20:00:10,907  INFO [main] LogReports:23 - validating itemname
+2019-11-08 20:00:11,071  INFO [main] LogReports:23 - itemname validated successfully
+2019-11-08 20:00:11,077  INFO [main] LogReports:23 - validating shirtsize
+2019-11-08 20:02:27,011  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 20:02:31,246  INFO [main] LogReports:23 - Application is open...
+2019-11-08 20:02:33,846  INFO [main] LogReports:23 - validating homepage
+2019-11-08 20:02:33,914  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 20:02:34,884  INFO [main] LogReports:23 - validating hotsaucespage
+2019-11-08 20:02:34,938  INFO [main] LogReports:23 - hotsaucepage validated successful
+2019-11-08 20:02:35,575  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 20:02:35,627  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 20:02:36,143  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 20:02:36,187  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 20:02:36,646  INFO [main] LogReports:23 - validating newtohotsausepage
+2019-11-08 20:02:36,692  INFO [main] LogReports:23 - newtohotsausepage validated successful
+2019-11-08 20:02:37,314  INFO [main] LogReports:23 - validating merchantisemenspage
+2019-11-08 20:02:37,358  INFO [main] LogReports:23 - merchantisemenspage validated successful
+2019-11-08 20:02:38,251  INFO [main] LogReports:23 - validating itemname
+2019-11-08 20:02:38,389  INFO [main] LogReports:23 - itemname validated successfully
+2019-11-08 20:02:38,394  INFO [main] LogReports:23 - validating shirtsize
+2019-11-08 20:11:43,348  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 20:11:47,571  INFO [main] LogReports:23 - Application is open...
+2019-11-08 20:11:53,986  INFO [main] LogReports:23 - validating homepage
+2019-11-08 20:11:54,046  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 20:11:54,888  INFO [main] LogReports:23 - validating hotsaucespage
+2019-11-08 20:11:54,931  INFO [main] LogReports:23 - hotsaucepage validated successful
+2019-11-08 20:11:55,762  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 20:11:55,804  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 20:11:56,343  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 20:11:56,389  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 20:11:56,903  INFO [main] LogReports:23 - validating newtohotsausepage
+2019-11-08 20:11:56,945  INFO [main] LogReports:23 - newtohotsausepage validated successful
+2019-11-08 20:11:57,666  INFO [main] LogReports:23 - validating merchantisemenspage
+2019-11-08 20:11:57,708  INFO [main] LogReports:23 - merchantisemenspage validated successful
+2019-11-08 20:11:58,659  INFO [main] LogReports:23 - validating itemname
+2019-11-08 20:11:58,802  INFO [main] LogReports:23 - itemname validated successfully
+2019-11-08 20:11:58,808  INFO [main] LogReports:23 - validating shirtsize,name,colour
+2019-11-08 20:11:58,879  INFO [main] LogReports:23 - shirtsize,name,colour validated successful
+2019-11-08 20:16:15,213  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 20:16:19,406  INFO [main] LogReports:23 - Application is open...
+2019-11-08 20:16:21,581  INFO [main] LogReports:23 - validating homepage
+2019-11-08 20:16:21,634  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 20:16:22,489  INFO [main] LogReports:23 - validating hotsaucespage
+2019-11-08 20:16:22,540  INFO [main] LogReports:23 - hotsaucepage validated successful
+2019-11-08 20:16:23,119  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 20:16:23,166  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 20:16:23,599  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 20:16:23,642  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 20:16:24,067  INFO [main] LogReports:23 - validating newtohotsausepage
+2019-11-08 20:16:24,108  INFO [main] LogReports:23 - newtohotsausepage validated successful
+2019-11-08 20:16:24,681  INFO [main] LogReports:23 - validating merchantisemenspage
+2019-11-08 20:16:24,726  INFO [main] LogReports:23 - merchantisemenspage validated successful
+2019-11-08 20:16:25,628  INFO [main] LogReports:23 - validating itemname
+2019-11-08 20:16:25,769  INFO [main] LogReports:23 - itemname validated successfully
+2019-11-08 20:16:25,775  INFO [main] LogReports:23 - validating shirtsize,name,colour
+2019-11-08 20:16:25,840  INFO [main] LogReports:23 - shirtsize,name,colour validated successful
+2019-11-08 20:22:13,749  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 20:22:17,941  INFO [main] LogReports:23 - Application is open...
+2019-11-08 20:22:19,897  INFO [main] LogReports:23 - validating homepage
+2019-11-08 20:22:19,958  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 20:22:20,842  INFO [main] LogReports:23 - validating hotsaucespage
+2019-11-08 20:22:20,883  INFO [main] LogReports:23 - hotsaucepage validated successful
+2019-11-08 20:22:21,580  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 20:22:21,619  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 20:22:22,201  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 20:22:22,242  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 20:22:22,764  INFO [main] LogReports:23 - validating newtohotsausepage
+2019-11-08 20:22:22,808  INFO [main] LogReports:23 - newtohotsausepage validated successful
+2019-11-08 20:22:23,528  INFO [main] LogReports:23 - validating merchantisemenspage
+2019-11-08 20:22:23,569  INFO [main] LogReports:23 - merchantisemenspage validated successful
+2019-11-08 20:22:24,464  INFO [main] LogReports:23 - validating itemname
+2019-11-08 20:22:24,688  INFO [main] LogReports:23 - itemname validated successfully
+2019-11-08 20:22:24,694  INFO [main] LogReports:23 - validating shirtsize,name,colour
+2019-11-08 20:22:24,761  INFO [main] LogReports:23 - shirtsize,name,colour validated successful
+2019-11-08 20:23:01,353  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 20:23:05,594  INFO [main] LogReports:23 - Application is open...
+2019-11-08 20:23:07,838  INFO [main] LogReports:23 - validating homepage
+2019-11-08 20:23:07,912  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 20:23:08,903  INFO [main] LogReports:23 - validating hotsaucespage
+2019-11-08 20:23:08,956  INFO [main] LogReports:23 - hotsaucepage validated successful
+2019-11-08 20:23:09,642  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 20:23:09,699  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 20:23:10,199  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 20:23:10,241  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 20:23:10,697  INFO [main] LogReports:23 - validating newtohotsausepage
+2019-11-08 20:23:10,748  INFO [main] LogReports:23 - newtohotsausepage validated successful
+2019-11-08 20:23:11,443  INFO [main] LogReports:23 - validating merchantisemenspage
+2019-11-08 20:23:11,501  INFO [main] LogReports:23 - merchantisemenspage validated successful
+2019-11-08 20:23:12,446  INFO [main] LogReports:23 - validating itemname
+2019-11-08 20:23:12,579  INFO [main] LogReports:23 - itemname validated successfully
+2019-11-08 20:23:12,588  INFO [main] LogReports:23 - validating shirtsize,name,colour
+2019-11-08 20:23:12,654  INFO [main] LogReports:23 - shirtsize,name,colour validated successful
+2019-11-08 20:26:04,944  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 20:26:09,149  INFO [main] LogReports:23 - Application is open...
+2019-11-08 20:26:11,088  INFO [main] LogReports:23 - validating homepage
+2019-11-08 20:26:11,183  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 20:26:12,321  INFO [main] LogReports:23 - validating hotsaucespage
+2019-11-08 20:26:12,365  INFO [main] LogReports:23 - hotsaucepage validated successful
+2019-11-08 20:26:13,033  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 20:26:13,079  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 20:26:13,637  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 20:26:13,683  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 20:26:14,162  INFO [main] LogReports:23 - validating newtohotsausepage
+2019-11-08 20:26:14,221  INFO [main] LogReports:23 - newtohotsausepage validated successful
+2019-11-08 20:26:14,963  INFO [main] LogReports:23 - validating merchantisemenspage
+2019-11-08 20:26:15,010  INFO [main] LogReports:23 - merchantisemenspage validated successful
+2019-11-08 20:26:15,944  INFO [main] LogReports:23 - validating itemname
+2019-11-08 20:26:16,096  INFO [main] LogReports:23 - itemname validated successfully
+2019-11-08 20:26:16,104  INFO [main] LogReports:23 - validating shirtsize,name,colour
+2019-11-08 20:26:16,190  INFO [main] LogReports:23 - shirtsize,name,colour validated successful
+2019-11-08 20:27:29,788  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 20:27:33,993  INFO [main] LogReports:23 - Application is open...
+2019-11-08 20:28:23,731  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 20:28:27,968  INFO [main] LogReports:23 - Application is open...
+2019-11-08 20:28:30,088  INFO [main] LogReports:23 - validating homepage
+2019-11-08 20:28:30,135  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 20:28:31,075  INFO [main] LogReports:23 - validating hotsaucespage
+2019-11-08 20:28:31,118  INFO [main] LogReports:23 - hotsaucepage validated successful
+2019-11-08 20:28:31,864  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 20:28:31,906  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 20:28:32,627  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 20:28:32,660  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 20:28:33,388  INFO [main] LogReports:23 - validating newtohotsausepage
+2019-11-08 20:28:33,433  INFO [main] LogReports:23 - newtohotsausepage validated successful
+2019-11-08 20:28:34,286  INFO [main] LogReports:23 - validating merchantisemenspage
+2019-11-08 20:28:34,322  INFO [main] LogReports:23 - merchantisemenspage validated successful
+2019-11-08 20:28:35,196  INFO [main] LogReports:23 - validating itemname
+2019-11-08 20:28:35,412  INFO [main] LogReports:23 - itemname validated successfully
+2019-11-08 20:28:35,418  INFO [main] LogReports:23 - validating shirtsize,name,colour
+2019-11-08 20:28:35,492  INFO [main] LogReports:23 - shirtsize,name,colour validated successful
+2019-11-08 20:33:11,923  INFO [main] LogReports:23 - Chrome browser launched...
+2019-11-08 20:33:16,131  INFO [main] LogReports:23 - Application is open...
+2019-11-08 20:33:20,506  INFO [main] LogReports:23 - validating homepage
+2019-11-08 20:33:20,585  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 20:33:23,983  INFO [main] LogReports:23 - validating product price and ex tax
+2019-11-08 20:33:24,001  INFO [main] LogReports:23 - validating homepage
+2019-11-08 20:33:24,051  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 20:33:41,407  INFO [main] LogReports:23 - Element not clicked
+2019-11-08 20:33:41,428  INFO [main] LogReports:23 - validating product price and ex tax
+2019-11-08 20:35:08,879  INFO [main] LogReports:23 - IE browser started...
+2019-11-08 20:35:08,925  INFO [main] LogReports:23 - Application is open...
+2019-11-08 20:35:12,432  INFO [main] LogReports:23 - validating homepage
+2019-11-08 20:35:12,754  INFO [main] LogReports:23 - homepage validated successful
+2019-11-08 20:35:14,718  INFO [main] LogReports:23 - validating hotsaucespage
+2019-11-08 20:35:14,975  INFO [main] LogReports:23 - hotsaucepage validated successful
+2019-11-08 20:35:16,506  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 20:35:16,783  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 20:35:18,233  INFO [main] LogReports:23 - validatinh merchantisepage
+2019-11-08 20:35:18,493  INFO [main] LogReports:23 - merchantiseandclearancepage validated
+2019-11-08 20:35:19,711  INFO [main] LogReports:23 - validating newtohotsausepage
+2019-11-08 20:35:19,951  INFO [main] LogReports:23 - newtohotsausepage validated successful
+2019-11-08 20:35:21,843  INFO [main] LogReports:23 - validating merchantisemenspage
+2019-11-08 20:35:22,119  INFO [main] LogReports:23 - merchantisemenspage validated successful
+2019-11-08 20:35:52,464  INFO [main] LogReports:23 - Element not clicked
+2019-11-08 20:35:52,480  INFO [main] LogReports:23 - validating itemname
